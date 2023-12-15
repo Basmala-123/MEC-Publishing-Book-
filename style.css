@@ -1,0 +1,63 @@
+.header{
+    padding: 20px;
+}
+.social-icon{
+    width: 420px;
+    display: inline-block;
+}
+
+.social-icon span i{
+    color: #4d4d4d;
+    padding:10px ;
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    text-align: center;
+    border: 1px solid #e6e6e6;
+}
+.social-icon span :hover{
+    color: #fff;
+    background-color: #95adbe;
+}
+.logo {
+  line-height: .7px;
+  width: 515px;
+  display: inline-block;
+}
+.logo h1{
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.logo h1 span{
+    color: #ff7a5c;
+}
+.logo small{
+    color: #4d4d4d;
+    letter-spacing: 3px;
+    word-spacing: 12px;
+
+}
+input{
+    padding: 15px;
+    width: 100%;
+    border-radius: 25px;
+    border: 1px solid transparent;
+    background-color:rgba(0, 0, 0, 0.03) ;
+
+}
+.search{
+    position: relative;
+    width: 235px;
+    display: inline-block;
+   
+}
+.search i{
+    padding: 15px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    color: #fff;
+    font-size: 15px;
+    border-radius: 0 25px 25px 0;
+    background-color: #95adbe;
+}
